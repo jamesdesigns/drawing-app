@@ -1,3 +1,10 @@
 html, body {
   margin: 0;
+  background-image: url('outlines.png');
+  position: relative;
+  z-index: 9999;
 }
+
+/* canvas {
+ background-image: url('outlines.png');
+} */
